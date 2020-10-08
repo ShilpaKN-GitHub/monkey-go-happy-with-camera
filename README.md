@@ -1,2 +1,2 @@
 # monkey-go-happy-with-camera
-Monkey go happy game with game camera positions
+Monkey Go Happy game with game camera positions.
